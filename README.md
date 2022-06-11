@@ -8,3 +8,10 @@ Drag and drop support between pending and completed section
 
 ## Getting Started
 
+1.![1](https://github.com/dineshpote26/DragDropNoteApp/blob/master/screenshot/1.png?raw=true)
+2.![2](https://github.com/dineshpote26/DragDropNoteApp/blob/master/screenshot/2.png?raw=true)
+3.![1](https://github.com/dineshpote26/DragDropNoteApp/blob/master/screenshot/3.png?raw=true)
+4.![2](https://github.com/dineshpote26/DragDropNoteApp/blob/master/screenshot/4.png?raw=true)
+5.![1](https://github.com/dineshpote26/DragDropNoteApp/blob/master/screenshot/5.png?raw=true)
+6.![2](https://github.com/dineshpote26/DragDropNoteApp/blob/master/screenshot/6.png?raw=true)
+7.![1](https://github.com/dineshpote26/DragDropNoteApp/blob/master/screenshot/7.png?raw=true)
